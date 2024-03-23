@@ -4,6 +4,14 @@ interface ButtonProp {
 }
 
 const Button = (props: ButtonProp) => {
+  const handleClick = () => console.log("Hey");
+
+  if (!props.onClick)
+    return (
+      <button onClick={handleClick} data-testid="button-test">
+        {props.children}
+      </button>
+    );
 
   return (
     <button onClick={props.onClick} data-testid="button-test">
