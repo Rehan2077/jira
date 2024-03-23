@@ -4,11 +4,10 @@ interface ButtonProp {
 }
 
 const Button = (props: ButtonProp) => {
-
   return (
     <button onClick={props.onClick} data-testid="button-test">
       {props.children}
     </button>
-  );
+  ); 
 };
 export default Button;
