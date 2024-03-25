@@ -1,3 +1,5 @@
+"use client"
+
 interface ButtonProp {
   children: string;
   onClick?: () => void;
