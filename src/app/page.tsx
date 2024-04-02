@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
     <main>
-      <Button onClick={() => signIn()}>Sign In</Button>
+      <Button onClick={() => signIn()} label="Login" />
     </main>
   );
 }
