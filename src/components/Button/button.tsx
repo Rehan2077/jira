@@ -1,10 +1,17 @@
-"use client"
+"use client";
 
 interface ButtonProp {
+<<<<<<< HEAD
+  label?: string;
+  onClick?: () => void;
+  primary?: boolean
+  size?: string 
+=======
   onClick?: () => void;
   primary?: boolean
   label?: string
   size?: string
+>>>>>>> master
 }
 
 const Button = (props: ButtonProp) => {
@@ -12,6 +19,6 @@ const Button = (props: ButtonProp) => {
     <button onClick={props.onClick} data-testid="button-test">
       {props.label}
     </button>
-  ); 
+  );
 };
-export default Button;
+export { Button };
