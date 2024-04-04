@@ -1619,6 +1619,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@emotion/is-prop-valid@npm:^0.8.2":
   version: 0.8.8
   resolution: "@emotion/is-prop-valid@npm:0.8.8"
@@ -1635,6 +1636,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "@emotion/use-insertion-effect-with-fallbacks@npm:^1.0.0":
   version: 1.0.1
   resolution: "@emotion/use-insertion-effect-with-fallbacks@npm:1.0.1"
@@ -1856,7 +1859,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@floating-ui/dom@npm:^1.2.1, @floating-ui/dom@npm:^1.6.1":
+=======
+"@floating-ui/dom@npm:^1.6.1":
+>>>>>>> master
   version: 1.6.3
   resolution: "@floating-ui/dom@npm:1.6.3"
   dependencies:
@@ -1866,6 +1873,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@floating-ui/react-dom@npm:^1.2.2":
   version: 1.3.0
   resolution: "@floating-ui/react-dom@npm:1.3.0"
@@ -1878,6 +1886,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "@floating-ui/react-dom@npm:^2.0.0":
   version: 2.0.8
   resolution: "@floating-ui/react-dom@npm:2.0.8"
@@ -1890,6 +1900,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@floating-ui/react@npm:0.19.0":
   version: 0.19.0
   resolution: "@floating-ui/react@npm:0.19.0"
@@ -1904,6 +1915,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "@floating-ui/utils@npm:^0.2.0, @floating-ui/utils@npm:^0.2.1":
   version: 0.2.1
   resolution: "@floating-ui/utils@npm:0.2.1"
@@ -2282,6 +2295,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@material-tailwind/react@npm:^2.1.9":
   version: 2.1.9
   resolution: "@material-tailwind/react@npm:2.1.9"
@@ -2302,6 +2316,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "@mdx-js/react@npm:^2.1.5":
   version: 2.3.0
   resolution: "@mdx-js/react@npm:2.3.0"
@@ -2314,6 +2330,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "@motionone/animation@npm:^10.12.0":
   version: 10.17.0
   resolution: "@motionone/animation@npm:10.17.0"
@@ -2379,6 +2396,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "@ndelangen/get-tarball@npm:^3.0.7":
   version: 3.0.9
   resolution: "@ndelangen/get-tarball@npm:3.0.9"
@@ -4808,6 +4827,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
+"@types/mime@npm:*":
+  version: 3.0.4
+  resolution: "@types/mime@npm:3.0.4"
+  checksum: 10c0/db478bc0f99e40f7b3e01d356a9bdf7817060808a294978111340317bcd80ca35382855578c5b60fbc84ae449674bd9bb38427b18417e1f8f19e4f72f8b242cd
+  languageName: node
+  linkType: hard
+
+>>>>>>> master
 "@types/mime@npm:^1":
   version: 1.3.5
   resolution: "@types/mime@npm:1.3.5"
@@ -4947,6 +4976,7 @@ __metadata:
   linkType: hard
 
 "@types/serve-static@npm:*":
+<<<<<<< HEAD
   version: 1.15.6
   resolution: "@types/serve-static@npm:1.15.6"
   dependencies:
@@ -4954,6 +4984,15 @@ __metadata:
     "@types/node": "npm:*"
     "@types/send": "npm:*"
   checksum: 10c0/6bcee5add6ddeb6a2923be41b57b8dcd06fb4c3810a09af044ee8ee4e46a9295562feea72c84f05b17b7c8591dd6200c3817c748883b70f51f841d40d6849b95
+=======
+  version: 1.15.5
+  resolution: "@types/serve-static@npm:1.15.5"
+  dependencies:
+    "@types/http-errors": "npm:*"
+    "@types/mime": "npm:*"
+    "@types/node": "npm:*"
+  checksum: 10c0/811d1a2f7e74a872195e7a013bcd87a2fb1edf07eaedcb9dcfd20c1eb4bc56ad4ea0d52141c13192c91ccda7c8aeb8a530d8a7e60b9c27f5990d7e62e0fecb03
+>>>>>>> master
   languageName: node
   linkType: hard
 
@@ -5692,7 +5731,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "aria-hidden@npm:^1.1.1, aria-hidden@npm:^1.1.3":
+=======
+"aria-hidden@npm:^1.1.1":
+>>>>>>> master
   version: 1.2.4
   resolution: "aria-hidden@npm:1.2.4"
   dependencies:
@@ -6697,6 +6740,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "classnames@npm:2.3.2":
   version: 2.3.2
   resolution: "classnames@npm:2.3.2"
@@ -6704,6 +6748,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "clean-css@npm:^5.2.2":
   version: 5.3.3
   resolution: "clean-css@npm:5.3.3"
@@ -9029,6 +9075,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "framer-motion@npm:6.5.1":
   version: 6.5.1
   resolution: "framer-motion@npm:6.5.1"
@@ -9059,6 +9106,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "fresh@npm:0.5.2":
   version: 0.5.2
   resolution: "fresh@npm:0.5.2"
@@ -9578,6 +9627,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "hey-listen@npm:^1.0.8":
   version: 1.0.8
   resolution: "hey-listen@npm:1.0.8"
@@ -9585,6 +9635,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "hmac-drbg@npm:^1.0.1":
   version: 1.0.1
   resolution: "hmac-drbg@npm:1.0.1"
@@ -11556,6 +11608,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "material-ripple-effects@npm:2.0.1":
   version: 2.0.1
   resolution: "material-ripple-effects@npm:2.0.1"
@@ -11563,6 +11616,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "md5.js@npm:^1.3.4":
   version: 1.3.5
   resolution: "md5.js@npm:1.3.5"
@@ -12894,6 +12949,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "popmotion@npm:11.0.3":
   version: 11.0.3
   resolution: "popmotion@npm:11.0.3"
@@ -12906,6 +12962,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "possible-typed-array-names@npm:^1.0.0":
   version: 1.0.0
   resolution: "possible-typed-array-names@npm:1.0.0"
@@ -13242,7 +13300,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "prop-types@npm:15.8.1, prop-types@npm:^15.7.2, prop-types@npm:^15.8.1":
+=======
+"prop-types@npm:^15.7.2, prop-types@npm:^15.8.1":
+>>>>>>> master
   version: 15.8.1
   resolution: "prop-types@npm:15.8.1"
   dependencies:
@@ -13523,7 +13585,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "react-dom@npm:18.2.0, react-dom@npm:^18":
+=======
+"react-dom@npm:^18":
+>>>>>>> master
   version: 18.2.0
   resolution: "react-dom@npm:18.2.0"
   dependencies:
@@ -13636,7 +13702,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "react@npm:18.2.0, react@npm:^18":
+=======
+"react@npm:^18":
+>>>>>>> master
   version: 18.2.0
   resolution: "react@npm:18.2.0"
   dependencies:
@@ -14856,6 +14926,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "style-value-types@npm:5.0.0":
   version: 5.0.0
   resolution: "style-value-types@npm:5.0.0"
@@ -14866,6 +14937,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "styled-jsx@npm:5.1.1":
   version: 5.1.1
   resolution: "styled-jsx@npm:5.1.1"
@@ -14960,6 +15033,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "tabbable@npm:^6.0.1":
   version: 6.2.0
   resolution: "tabbable@npm:6.2.0"
@@ -14983,6 +15057,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+=======
+>>>>>>> master
 "tailwindcss@npm:^3.3.0":
   version: 3.4.1
   resolution: "tailwindcss@npm:3.4.1"
@@ -15457,7 +15533,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
 "tslib@npm:^2.0.0, tslib@npm:^2.0.1, tslib@npm:^2.0.3, tslib@npm:^2.1.0, tslib@npm:^2.3.1, tslib@npm:^2.4.0":
+=======
+"tslib@npm:^2.0.0, tslib@npm:^2.0.1, tslib@npm:^2.0.3, tslib@npm:^2.1.0, tslib@npm:^2.4.0":
+>>>>>>> master
   version: 2.6.2
   resolution: "tslib@npm:2.6.2"
   checksum: 10c0/e03a8a4271152c8b26604ed45535954c0a45296e32445b4b87f8a5abdb2421f40b59b4ca437c4346af0f28179780d604094eb64546bee2019d903d01c6c19bdb

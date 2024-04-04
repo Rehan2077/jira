@@ -1,6 +1,10 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
+<<<<<<< HEAD
 import { Button } from './button';
+=======
+import { Button } from '.';
+>>>>>>> master
 
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 const meta = {
